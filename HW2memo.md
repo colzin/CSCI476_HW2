@@ -6,4 +6,10 @@ that sounded cool, so I opened the gui version so I could read about it.
   When it made sense I used the command-line version because everyone seems to say it is waay more 
 1337 and powerful. 
   The following shot is the command I used.
+![Command used] (https://github.com/colzin/CSCI476_HW2/blob/master/HW2Command.png)
+I noticed that a lot of the children or threads hydra starts would fail, but 2 to 4 would usually keep working.
+I tried two wordlists with no success, until the password was changed, then the list fasttrack.txt 
+found it almost immediately to be changeme.
+Here is a screenshot of the crack and successful login.
+![Login](https://github.com/colzin/CSCI476_HW2/blob/master/HW2.png)
 
